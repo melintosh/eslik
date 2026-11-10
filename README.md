@@ -1,10 +1,10 @@
-# Eşlik
+# Pomodoors
 
 Başlaması zor gelen işler için sakin ve yargılamayan bir ortak çalışma web uygulaması. Kullanıcı kısa bir niyet yazar, süresini seçer ve kamerasız bir odada başkalarıyla aynı anda çalışır. Odak sırasında sohbet kapalıdır, molada açılır.
 
 > **Durum:** Bu depoda yalnızca statik bir arayüz prototipi var (`prototip/`). Backend, üyelik, veritabanı, gerçek zamanlı eşzamanlama ve veri kaydı **henüz yok**. Teknoloji yığını seçilmedi.
 >
-> "Eşlik" bir çalışma adıdır, kesinleşmedi. Olası adres: `eslik.melintosh.com`.
+> "Pomodoors" bir çalışma adıdır, kesinleşmedi. Olası adres: `eslik.melintosh.com`.
 
 Bu belge, projede çalışan kişiler ile ürün ve kod ajanları için temel bağlam kaynağıdır. Bir değişikliğe başlamadan önce baştan sona okuyun ve [Ajan yönergeleri](#ajan-yönergeleri) bölümüne uyun.
 
